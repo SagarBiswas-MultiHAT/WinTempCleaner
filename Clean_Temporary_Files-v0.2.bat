@@ -33,6 +33,7 @@ Del /S /F /Q %temp% 2>nul
 REM /S -> Deletes files from all subdirectories.
 REM /F -> Forces deletion of read-only files.
 REM /Q -> Quiet mode, no prompts for confirmation.
+REM %temp% -> Uses the %temp% environment variable to target the user's temp directory.
 REM 2>nul -> Redirects error messages to nul (ignores them).
 
 REM Delete temp files from Windows Temp and Prefetch directories, and user temp directory.
@@ -47,4 +48,4 @@ Del /S /F /Q "%USERPROFILE%\AppData\Local\Temp" 2>nul
 :end
 REM :end -> Label to mark the end of the script or a section.
 pause 
-REM pause -> Wait for the user to press a key so they can read the result.
+REM pause -> Wait for user to press a key so they can read the result.
