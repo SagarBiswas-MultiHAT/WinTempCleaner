@@ -47,4 +47,4 @@ Del /S /F /Q "%USERPROFILE%\AppData\Local\Temp" 2>nul
 :end
 REM :end -> Label to mark the end of the script or a section.
 pause 
-REM pause -> Pauses the script and waits for the user to press a key before closing the console window.
+REM pause -> Wait for the user to press a key so they can read the result.
