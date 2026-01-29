@@ -2,6 +2,8 @@
 
 **Cache Cleaner by Sagar_Biswas** is a lightweight Windows batch script that wipes the most common temporary file locations in one go. Use it to reclaim disk space, clear stubborn cache files that slow apps down, and tidy your system without clicking through multiple folders.
 
+### Video: https://www.facebook.com/share/r/18Fj7dnB3p/
+
 ## Features
 
 - Interactive confirmation so you stay in control of every cleanup run.
