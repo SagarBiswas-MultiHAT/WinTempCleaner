@@ -1,5 +1,20 @@
 # Cache Cleaner
 
+<div align="right">
+
+[![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner) 
+&nbsp;
+[![Last Commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner/commits) 
+&nbsp;
+[![Repo Size](https://img.shields.io/github/repo-size/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner) 
+&nbsp;
+[![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner/issues) 
+&nbsp;
+[![Windows](https://img.shields.io/badge/OS-Windows-blue)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner)
+
+</div>
+
+
 **Cache Cleaner by Sagar_Biswas** is a lightweight Windows batch script that wipes the most common temporary file locations in one go. Use it to reclaim disk space, clear stubborn cache files that slow apps down, and tidy your system without clicking through multiple folders.
 
 ### Video: https://www.facebook.com/share/r/18Fj7dnB3p/
@@ -118,4 +133,4 @@ REM pause -> Wait for user to press a key so they can read the result.
 
 ## License
 
-No license file is bundled yet. If you plan to republish or modify this script, consider adding a suitable open-source license to the repository.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
