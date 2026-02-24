@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  push: {}
+  pull_request: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Quick success check
+        run: |
+          echo "CI: Get started with GitHub Actions — success"
+          exit 0
