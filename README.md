@@ -2,22 +2,20 @@
 
 <div align="right">
 
+[![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)<br>
 [![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner) 
-&nbsp;
 [![Last Commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner/commits) 
-&nbsp;
 [![Repo Size](https://img.shields.io/github/repo-size/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner) 
-&nbsp;
 [![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/WinTempCleaner)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner/issues) 
-&nbsp;
 [![Windows](https://img.shields.io/badge/OS-Windows-blue)](https://github.com/SagarBiswas-MultiHAT/WinTempCleaner)
+
 
 </div>
 
 
 **Cache Cleaner by Sagar_Biswas** is a lightweight Windows batch script that wipes the most common temporary file locations in one go. Use it to reclaim disk space, clear stubborn cache files that slow apps down, and tidy your system without clicking through multiple folders.
 
-### Video: https://www.facebook.com/share/r/18Fj7dnB3p/
+#### Video: https://www.facebook.com/share/r/18Fj7dnB3p/
 
 ## Features
 
@@ -126,6 +124,14 @@ REM pause -> Wait for user to press a key so they can read the result.
 - **Permission denied**: Relaunch the batch file with elevated rights (right-click, run as administrator).
 - **Nothing deleted**: Verify that temporary files exist or confirm that `%TEMP%` points to the expected folder.
 - **Different temp paths**: If your environment redirects temp folders, update the directory list in the script.
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)&nbsp;
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ## Author
 
